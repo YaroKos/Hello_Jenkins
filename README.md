@@ -1,6 +1,3 @@
-[![Build Status](http://localhost:8080/jenkins/job/hello_jenkins/badge/icon)](http://localhost:8080/jenkins/job/hello_jenkins/)
-<a href='http://localhost:8080/jenkins/job/hello_jenkins/'><img src='http://localhost:8080/jenkins/job/hello_jenkins/badge/icon'></a>
-
 ## Hello_Jenkins <img align="right" src="img/liatrio.png">
 This simple exercise is designed to introduce you to Jenkins and continuous integration. This was originally written
 as an exercise for California State University, Chico. I have since modified it to be a simple exercise for anyone
