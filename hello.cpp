@@ -7,7 +7,7 @@ int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
   cout << "Let's see if the process works well\n";
-  cout << "It works!!!\n"
+  cout << "It works!!!\n";
   cout << "I have successfully built and run\n";
   return 0;
 }
